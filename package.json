@@ -1,0 +1,23 @@
+{
+  "name": "react-helloworldz",
+  "version": "1.0.0",
+  "description": "First reactThing",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexAeterna12321/React-HelloWorldz.git"
+  },
+  "author": "Lex_Aeterna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexAeterna12321/React-HelloWorldz/issues"
+  },
+  "homepage": "https://github.com/LexAeterna12321/React-HelloWorldz#readme",
+  "devDependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
